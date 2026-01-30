@@ -1,0 +1,10 @@
+*.pyc
+*.pth
+
+stop_git
+ckpt
+V2X-Sim-det
+
+.cursor
+
+*.log
